@@ -44,7 +44,7 @@ from the command line.
 
 
 %prep
-%autosetup -p1
+%autosetup -p1 -n libqmi-1.37.1-dev
 
 
 %build
