@@ -4,7 +4,7 @@ Release: 2%{?dist}
 Summary: Support library to use the Qualcomm MSM Interface (QMI) protocol
 License: LGPL-2.1-or-later
 URL: https://gitlab.freedesktop.org/mobile-broadband/libqmi/
-Source: https://gitlab.freedesktop.org/mobile-broadband/libqmi/-/archive/%{version}/%{name}-%{version}.tar.bz2
+Source: https://github.com/jnahorny/libqmi/blob/main/libqmi-1.37.1-dev.tar.bz2
 
 BuildRequires: meson >= 0.53
 BuildRequires: gcc
